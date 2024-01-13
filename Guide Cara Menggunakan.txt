@@ -1,0 +1,5 @@
+Hidupkan server PHP di folder ini, contoh (ketik di terminal):
+php -S localhost:8080
+
+File yang dibuat akan disimpan di folder
+aser/file/
